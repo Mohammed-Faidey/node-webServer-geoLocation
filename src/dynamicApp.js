@@ -103,14 +103,6 @@ app.get('*', (req, res)=>{
 })
 
 
-/* app.get('/weather', (req, res) => {
-    res.send({
-        location: 'Egypt',
-        forecast: '25 c'
-    })
-
-})
- */
 // app.com
 // app.com/help
 // app.com/about
